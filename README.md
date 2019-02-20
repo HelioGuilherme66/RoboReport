@@ -19,7 +19,7 @@ Create a virtual environment and install all the packages from requirements.txt
 Or You can also make use of the shell script run.sh for setting up virtual environment and installing the software
 
 ## Steps to generate the HTML report
-    python robo_report.py
+    python robo_graph.py
 
 This should generate the HTML report called graph.html
 
