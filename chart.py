@@ -45,7 +45,7 @@ def create_chart(overall_result,tag_results =''):
                             "size": 10
                         },
                         "showarrow": False,
-                        "text": "Total Percenatage",
+                        "text": "Total Percentage",
                         "x": 0.20,
                         "y": 0.5
                     }
